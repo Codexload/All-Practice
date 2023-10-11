@@ -1,0 +1,21 @@
+victim_name = input("Enter Victim Name--> ")
+victim_phone_number = input("Enter Victim Phone Number(With-Country-Code)--> ")
+
+print("Tool Name = <I.F.S>InFo Snacher</I.S.F>" , "Author = <h1>Tanjimul Hisham (Fardin)</h1>")
+
+print("------------------------------Information Gatharaing----------------------------------")
+
+print("Talegram ==> " + "https://www.t.me/" + victim_phone_number)
+print("Facebook ==> " + "https://facebook.com/" + victim_name)
+print("Whatsapp ==> " + "https://wa.me/" + victim_phone_number)
+print("Linkdin ==> " + "https://www.linkedin.com/in/" + victim_name)
+print("Instagram ==> " + "https://instagram.com/"+ victim_name)
+print("Twitter ==> " + "https://twitter.com/"+ victim_name)
+print("Pinterest ==> " + "https://pinterest.com/"+ victim_name)
+print("YouTube ==> " + "https://youTube .com/"+ victim_name)
+print("Reddit ==> " + "https://reddit.com/"+ victim_name)
+print("TikTok ==> " + "https://tiktok.com/"+ victim_name)
+print("Snapchat ==> " + "https://snapchat.com/"+ victim_name)
+print("                                                               version 0.0.0.1")
+print("-------------------End!!! (This Tool Was Update In Every Month )-----------------------")
+print("                         Thanks For Using This Tool                                    ")
